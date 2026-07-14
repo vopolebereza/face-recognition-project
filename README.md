@@ -7,31 +7,17 @@
 
 ```
 ├── README.md
-├── Task1_FaceAlignment.ipynb              # Задание 1 (4 балла)
-├── Task2_FaceRecognition.ipynb            # Задание 2 (4 балла)
-├── Task3_FullPipeline.ipynb                # Задание 3 (2 балла)
-├── Dop1_IdentificationRateMetric.ipynb    # Доп. задание (3 балла)
-├── Dop2_TripletLoss.ipynb                  # Доп. задание (4 балла)
-├── Dop3_ArcFacePlusTriplet.ipynb            # Доп. задание (2 балла)
-├── Dop4_OpenSourceReview.ipynb             # Доп. задание (3 балла)
+├── Task1_FaceAlignment.ipynb
+├── Task2_FaceRecognition.ipynb
+├── Task3_FullPipeline.ipynb
+├── Dop1_IdentificationRateMetric.ipynb
+├── Dop2_TripletLoss.ipynb
+├── Dop3_ArcFacePlusTriplet.ipynb
+├── Dop4_OpenSourceReview.ipynb
 └── data/
     ├── task1_selected_dataset.csv          # Датасет Task 1 (оригинальные имена файлов CelebA)
     └── task2_selected_dataset.csv          # Датасет Task 2 (оригинальные имена файлов CelebA)
 ```
-
-## Статус выполнения
-
-| Задание | Баллы | Статус |
-|---|---|---|
-| 1. Face Alignment (Stacked Hourglass) | 4 | ✅ готово |
-| 2. Face Recognition (CE vs ArcFace) | 4 | ✅ готово |
-| 3. Полный пайплайн (детектор + align + recognition) | 2 | ✅ готово |
-| Доп. Identification Rate Metric | 3 | ✅ готово |
-| Доп. Triplet Loss | 4 | ✅ готово |
-| Доп. ArcFace + Triplet Loss смесь | 2 | ✅ готово |
-| Доп. Обзор open-source решений | 3 | ✅ готово |
-
-**Все основные и дополнительные задания выполнены.**
 
 ## Веса моделей (облако)
 
